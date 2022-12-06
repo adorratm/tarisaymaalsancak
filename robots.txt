@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tarisaymaalsancak.com.tr/tr/sitemap.xml
+Sitemap: https://tarisaymaalsancak.com.tr/tr/sitemapindex.xml
